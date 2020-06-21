@@ -34,7 +34,7 @@ The analysis of the election show that:
     
 ## *Challenge Overview*
   
-The election commission has given me the following tasks to confirm the voter turnout for each county
+The election commission has given me the following tasks to confirm the voter turnout for each county.
   1. Get a complete list of counties who received votes
   2. Calculate the total number of votes each county received.
   3. Calculate the percentage of votes each county won.
